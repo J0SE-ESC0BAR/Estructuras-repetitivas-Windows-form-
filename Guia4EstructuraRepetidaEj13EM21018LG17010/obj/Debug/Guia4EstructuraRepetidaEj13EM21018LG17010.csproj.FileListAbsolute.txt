@@ -1,0 +1,10 @@
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\bin\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.exe.config
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\bin\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\bin\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.pdb
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.csproj.AssemblyReference.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.Form1.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.Properties.Resources.resources
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.csproj.GenerateResource.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.csproj.CoreCompileInputs.cache
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.exe
+D:\@My Documents\JAEM\ESTUDIOS\@PRG\Labs\4\Ej4\Guia4EstructuraRepetidaEj13EM21018LG17010\Guia4EstructuraRepetidaEj13EM21018LG17010\obj\Debug\Guia4EstructuraRepetidaEj13EM21018LG17010.pdb
